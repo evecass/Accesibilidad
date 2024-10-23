@@ -1,0 +1,11 @@
+body {
+    background-color: #f5f9fc; 
+}
+
+/* Asegúrate de que el CSS sea lo suficientemente específico */
+table thead th {
+    background-color: #393939 !important; /* Usa !important para sobrescribir otros estilos */
+    color: white !important;
+    text-align: center;
+    padding: 10px;
+}
